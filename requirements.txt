@@ -1,8 +1,8 @@
-streamlit==1.32.0
-pandas==2.2.1
-numpy==1.26.4
-sentence-transformers==2.5.1
-scikit-learn==1.4.1.post1
-requests==2.31.0
-openpyxl==3.1.2
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+pandas
+openpyxl
+sentence-transformers
+scikit-learn
+requests
 torch
